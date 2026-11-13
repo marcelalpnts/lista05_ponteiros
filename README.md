@@ -1,1 +1,1 @@
-# lista06_ponteiros
+# lista05_ponteiros
